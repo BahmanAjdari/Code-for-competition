@@ -11,22 +11,22 @@ This document provides some insights from a public dataset provided by Tehran's 
 ![data range](img/cost_overtime.png)
 
 ### Word Cloud for topics
-<p align="center">
+
+
 ![word cloud](img/word_cloud_1.png)
-</p>
+
 
 ### Methods used for contractor 
 
-<p align="center">
 ![Choose method](img/choose_mtd_pct.png)
-</p>
+
 
 ### Age of contractors on amount size
 
-<p align="center">
+
 ![Choose method](img/age_price_2.png)
-</p>
+
 ### Donut chart for contracts types 
-<p align="center">
+
+
 ![Choose method](img/pie_contracts.png)
-</p>
